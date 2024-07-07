@@ -18,7 +18,7 @@ To set up the environment, ensure the following Python packages are installed:
 
 ## Loading Stage
 
-Documents are loaded from a directory named `data` using SimpleDirectoryReader.
+Documents are loaded from a directory named `data` using SimpleDirectoryReader. DIverse set of PDFs were used.
 
 ## Indexing Stage
 
